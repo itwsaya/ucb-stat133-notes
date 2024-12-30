@@ -1,0 +1,1 @@
+It is important to be able to have [[R]] and [[RStudio]] installed in order to ensure that one is able to dive into the material properly. This particular unit involves itself in Quarto notebooks.

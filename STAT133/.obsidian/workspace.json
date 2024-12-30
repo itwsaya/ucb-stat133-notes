@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "a09454772bc1a8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f57c3ff0265e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeaeb7b15cbb44f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R Ice Breaker/4 First Contact with R.rmd",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 First Contact with R"
+            }
+          },
+          {
+            "id": "dcf86556cbacfa02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R Ice Breaker/5 Getting Help.rmd",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 Getting Help"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee4cfa30286544c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e19ca1b72910cb7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec7a82f96467e8f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "45af83076474232a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e66573c640b2b400",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fca5273bfbb287c",
+    "type": "split",
+    "children": [
+      {
+        "id": "424d92678858b417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c91918b5cda7c6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "5be00ea4382dc1ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "c0146be6fd89c3fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35380c7b3a387ab6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "c4ad76a729cbcc8f",
+            "type": "leaf",
+            "state": {
+              "type": "r-environment-view",
+              "state": {},
+              "icon": "table",
+              "title": "R Environment"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "2e6549a66bcd1e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f4888381bdce8e7",
+            "type": "leaf",
+            "state": {
+              "type": "r-help-view",
+              "state": {},
+              "icon": "info",
+              "title": "R Help"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ec7a82f96467e8f8",
+  "lastOpenFiles": [
+    "R Ice Breaker/4 First Contact with R.rmd",
+    "R Ice Breaker/5 Getting Help.rmd",
+    "Week 1/Unit 1 - Introduction.md",
+    "exports/4_First_Contact_with_R/4_First_Contact_with_R_quarto.qmd",
+    "exports/4_First_Contact_with_R",
+    "exports",
+    "R Coding Basics/Vectors/1 First Contact with Vectors.md",
+    "Week 1/Syllabus.md",
+    "Untitled.canvas",
+    "2024-12-30.md",
+    "R Ice Breaker",
+    "R Coding Basics/Vectors",
+    "R Coding Basics",
+    "Extraneous/RStudio.md",
+    "Extraneous/R.md",
+    "Extraneous",
+    "Week 1"
+  ]
+}

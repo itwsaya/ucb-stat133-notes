@@ -1,0 +1,38 @@
+---
+title: "4 First Contact with R"
+author: "Author Name"
+date: today
+format: html
+---
+
+# 4.3 Exercises
+**1)** Here’s the list of monthly expenses for a hypothetical undergraduate student
+- cell phone $80
+- transportation $20
+- groceries $550
+- gym $15
+- rent $1700
+- other $85
+a. Using the `console` pane of RStudio, create objects (i.e. variables) for each of these expenses listed above, and then create an object `total` with the sum of the expenses.
+
+```{r}
+#| label: 4a44dc15
+library(tidyverse)
+# Monthly expenses as objects
+cell_phone <- 80
+transportation <- 20
+groceries <- 550
+gym <- 15
+rent <- 1700
+other <- 85
+
+# Total assignment operator
+monthly_total <- cell_phone + transportation + groceries + gym + rent + other
+monthly_total
+```
+
+b. Assuming that the student has the same expenses every month, how much would she spend during a school “semester”? (assume the semester involves five months). Write code in R to find this value.
+
+```{r}
+semester <- 5 * monthly_total
+```

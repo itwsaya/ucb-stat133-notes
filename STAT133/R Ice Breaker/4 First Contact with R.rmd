@@ -1,0 +1,56 @@
+---
+title: "4 First Contact with R"
+output: html_document
+---
+
+# 4.3 Exercises
+**1)** Here’s the list of monthly expenses for a hypothetical undergraduate student
+- cell phone $80
+- transportation $20
+- groceries $550
+- gym $15
+- rent $1700
+- other $85
+a. Using the `console` pane of RStudio, create objects (i.e. variables) for each of these expenses listed above, and then create an object `total` with the sum of the expenses.
+
+```{r}
+cell_phone <- 80
+transportation <- 20
+groceries <- 550
+gym <- 15
+rent <- 1700
+other <- 85
+
+# Total assignment operator
+monthly_total <- cell_phone + transportation + groceries + gym + rent + other
+monthly_total
+```
+
+b. Assuming that the student has the same expenses every month, how much would she spend during a school “semester”? (assume the semester involves five months). Write code in R to find this value.
+
+```{r}
+semester_total <- 5 * monthly_total
+semester
+```
+
+
+c. Using the same assumption about the monthly expenses, how much would she spend during a school “year”? (assume the academic year is 10 months). Write code in R to find this value.
+
+```{r}
+year_total <- 10 * monthly_total
+year_total
+```
+
+2) Write code in the console to calculate: 3x^2 + 4x + 8 when x = 2
+
+```{r}
+x = 2
+3*x^2 + 4*x + 8
+```
+
+3) Calculate: 3x^2 + 4x + 8 but now with a numeric sequence for using x <- -3:3
+
+```{r}
+x <- -3:3
+3*x^2 + 4*x + 8
+```

@@ -1,0 +1,26 @@
+# 5.5 Exercises
+
+**1)** Refer to the help documentation of `mean()` function, e.g. `help(mean)`. Scroll down to the **Examples** section:
+
+```{r}
+help(mean)
+```
+
+**2)** Find out how to look for information about math binary operators like `+` or `^` (without using `?Arithmetic`). _Tip_: quotes are your friend.
+
+```{r}
+help('+')
+help('^')
+```
+
+**3)** Like in the previous exercise, use quotes or backticks to get the documentation of the **value matching** operator `%in%`.
+
+```{r}
+help('%in%')
+```
+
+**4)** Use the function `help.search()` to obtain a list of suggested functions about `"linear model"`
+
+```{r}
+help.search('linear model')
+```
